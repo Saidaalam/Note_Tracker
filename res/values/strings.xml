@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Note_Tracker</string>
+
+    <!-- Mood options -->
+    <string-array name="moods_array">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Excited</item>
+        <item>Anxious</item>
+        <item>Relaxed</item>
+        <item>Stressed</item>
+        <item>Calm</item>
+    </string-array>
+
+</resources>
